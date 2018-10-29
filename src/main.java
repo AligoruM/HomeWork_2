@@ -1,3 +1,4 @@
+import Ball.Ball;
 import Complex.MyComplex;
 import Poly.MyPolynomial;
 
@@ -8,7 +9,12 @@ public class main {
         System.out.println(comp2.conjugate());
         System.out.println(comp);*/
 
-        double[] arr = {1,2,5.3, 0, 1};
+        /*double[] arr = {1,2,5.3, 0, -1};
         MyPolynomial poly = new MyPolynomial(arr);
+        System.out.println(poly);*/
+
+
     }
+
+
 }
